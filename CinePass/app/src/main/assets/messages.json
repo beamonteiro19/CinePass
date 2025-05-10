@@ -1,0 +1,8 @@
+{
+  "messages": [
+    {
+      "EmptyField": "Preencha todos os campos",
+      "Sucess": "Cadastro realizado com sucesso!"
+    }
+  ]
+}

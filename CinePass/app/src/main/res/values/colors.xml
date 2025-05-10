@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //cores login e cadastro
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="card">#BAB6B6</color>
+    <color name="profile_icon">#9F9A9A</color>
+    <color name="profile_text_color">#9F9A9A</color>
+    <color name="text_secondary_color">#44464e</color>
+
+    // main colors do app
+
+    <color name="orange">#FEAD51</color>
+    <color name="yellow">#FFC107</color>
+    <color name="dark_blue">#252836</color>
+    <color name="main_color">#1F1D2B</color>
+    <color name="seat_selected_color">#FEAD51</color>
+
+    <color name="time_color">#00BCD4</color>
+
+    //mudança de cor ao clique
+    <color name="unselected">#00BCD4</color>
+    <color name="selected">#FFFFFFFF</color>
+
+
+    <color name="seats_color">#00BCD4</color>
+    <color name="seats_selected_color">#FEAD51</color>
+
+    <color name="selected_session_date">#9F9A9A</color>
+
+
+
+</resources>

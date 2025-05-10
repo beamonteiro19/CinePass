@@ -1,0 +1,4 @@
+<resources xmlns:app="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">CinePass</string>
+    <string name="screen_description" app:color="@color/white">Representação da tela do cinema</string>
+</resources>
